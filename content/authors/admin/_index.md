@@ -1,26 +1,30 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Ing. Facundo Aguilera
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Investigador/Docente
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Grupo de Electrónica Aplicada (GEA), IITEMA, CONICET-UNRC, Río Cuarto, Córdoba, Argentina.
+    url: http://gea.ing.unrc.edu.ar/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Investigando sobre vehículos eléctricos y generación de energía eléctrica a partir de fuentes renovables. Participando en proyectos sobre sistemas embebidos con DSP y FPGA. Docente en las carreras de Ingeniería en Telecomunicaciones e Ingeniería Electricista de la UNRC. Promotor de software libre.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Vehículos Eléctricos
+  - Tolerancia a Fallas
+  - Microrredes eléctricas inteligentes
+  - Generación solar y eólica
+  - FPGA
+  - Procesamiento digital de señales
+  - Linux
 
 # Education to show in About widget
 education:
